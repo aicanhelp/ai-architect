@@ -10,3 +10,6 @@
 [submodule "resources/ddd-examples-es-c1rs"]
 	path = resources/ddd-examples-es-cqrs
 	url = https://github.com/ddd-by-examples/event-source-cqrs-sample.git
+[submodule "resources/es-watermill"]
+	path = resources/es-watermill
+	url = https://github.com/ThreeDotsLabs/watermill.git
