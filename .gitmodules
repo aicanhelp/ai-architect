@@ -1,0 +1,12 @@
+[submodule "resources/ddd-examples-library"]
+	path = resources/ddd-examples-library
+	url = https://github.com/ddd-by-examples/library.git
+[submodule "resources/ddd-examples-cqrs"]
+	path = resources/ddd-examples-cqrs
+	url = https://github.com/ddd-by-examples/all-things-cqrs.git
+[submodule "resources/ddd-examples-factory"]
+	path = resources/ddd-examples-factory
+	url = https://github.com/ddd-by-examples/factory.git
+[submodule "resources/ddd-examples-es-c1rs"]
+	path = resources/ddd-examples-es-cqrs
+	url = https://github.com/ddd-by-examples/event-source-cqrs-sample.git
